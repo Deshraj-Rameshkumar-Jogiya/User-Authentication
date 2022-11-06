@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Deshraj Jogiya",
+    "email": "dj@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-4.jpg",
+    "password": "password12345"
+  },
+  {
+    "name": "Gaurav",
+    "email": "Gaurav@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-5.jpg",
+    "password": "password12345"
+  },
+  {
+    "name": "Viral",
+    "email": "viral@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-6.jpg",
+    "password": "password12345"
+  },
+  {
+    "name": "Punit",
+    "email": "punit@example.com",
+    "role": "guide",
+    "active": true,
+    "photo": "user-7.jpg",
+    "password": "password12345"
+  },
+  {
+    "name": "Umang",
+    "email": "umang@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-8.jpg",
+    "password": "password12345"
+  },
+  {
+    "name": "Dripraj",
+    "email": "drip@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "user-9.jpg",
+    "password": "password12345"
+  },
+  {
+    "name": "Ishan Joshi",
+    "email": "ijoshi@example.com",
+    "role": "lead-guide",
+    "active": true,
+    "photo": "user-10.jpg",
+    "password": "password12345"
+  }
+]
